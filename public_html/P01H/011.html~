@@ -1,0 +1,116 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<html>
+<head>
+Autors: Daniils Aleksandrovs-Moisejs ,HTML dokumenta veidošana ar Python
+</head>
+<pre>
+========================================
+for k in range(0,50,1):
+    a = k*k
+    print "%d" % (k)
+    print k,a
+========================================
+<br>
+<font color="red"><h1> 0 </h1></font>
+0 0
+<font color="red"><h1> 1 </h1></font>
+<font color="blue">1</font> 1
+<font color="red"><h1> 2 </h1></font>
+<font color="blue">2</font> 4
+<font color="red"><h1> 3 </h1></font>
+<font color="blue">3</font> 9
+<font color="red"><h1> 4 </h1></font>
+<font color="blue">4</font> 16
+<font color="red"><h1> 5 </h1></font>
+<font color="blue">5</font> 25
+<font color="red"><h1> 6 </h1></font>
+<font color="blue">6</font> 36
+<font color="red"><h1> 7 </h1></font>
+<font color="blue">7</font> 49
+<font color="red"><h1> 8 </h1></font>
+<font color="blue">8</font> 64
+<font color="red"><h1> 9 </h1></font>
+<font color="blue">9</font> 81
+<font color="red"><h1> 10 </h1></font>
+<font color="blue">10</font> 100
+<font color="red"><h1> 11 </h1></font>
+<font color="blue">11</font> 121
+<font color="red"><h1> 12 </h1></font>
+<font color="blue">12</font> 144
+<font color="red"><h1> 13 </h1></font>
+<font color="blue">13</font> 169
+<font color="red"><h1> 14 </h1></font>
+<font color="blue">14</font> 196
+<font color="red"><h1> 15 </h1></font>
+<font color="blue">15</font> 225
+<font color="red"><h1> 16 </h1></font>
+<font color="blue">16</font> 256
+<font color="red"><h1> 17 </h1></font>
+<font color="blue">17</font> 289
+<font color="red"><h1> 18 </h1></font>
+<font color="blue">18</font> 324
+<font color="red"><h1> 19 </h1></font>
+<font color="blue">19</font> 361
+<font color="red"><h1> 20 </h1></font>
+<font color="blue">20</font> 400
+<font color="red"><h1> 21 </h1></font>
+<font color="blue">21</font> 441
+<font color="red"><h1> 22 </h1></font>
+<font color="blue">22</font> 484
+<font color="red"><h1> 23 </h1></font>
+<font color="blue">23</font> 529
+<font color="red"><h1> 24 </h1></font>
+<font color="blue">24</font> 576
+<font color="red"><h1> 25 </h1></font>
+<font color="blue">25</font> 625
+<font color="red"><h1> 26 </h1></font>
+<font color="blue">26</font> 676
+<font color="red"><h1> 27 </h1></font>
+<font color="blue">27</font> 729
+<font color="red"><h1> 28 </h1></font>
+<font color="blue">28</font> 784
+<font color="red"><h1> 29 </h1></font>
+<font color="blue">29</font> 841
+<font color="red"><h1> 30 </h1></font>
+<font color="blue">30</font> 900
+<font color="red"><h1> 31 </h1></font>
+<font color="blue">31</font> 961
+<font color="red"><h1> 32 </h1></font>
+<font color="blue">32</font> 1024
+<font color="red"><h1> 33 </h1></font>
+<font color="blue">33</font> 1089
+<font color="red"><h1> 34 </h1></font>
+<font color="blue">34</font> 1156
+<font color="red"><h1> 35 </h1></font>
+<font color="blue">35</font> 1225
+<font color="red"><h1> 36 </h1></font>
+<font color="blue">36</font> 1296
+<font color="red"><h1> 37 </h1></font>
+<font color="blue">37</font> 1369
+<font color="red"><h1> 38 </h1></font>
+<font color="blue">38</font> 1444
+<font color="red"><h1> 39 </h1></font>
+<font color="blue">39</font> 1521
+<font color="red"><h1> 40 </h1></font>
+<font color="blue">40 1600
+<font color="red"><h1> 41 </h1></font>
+<font color="blue">41</font> 1681
+<font color="red"><h1> 42 </h1></font>
+<font color="blue">42</font> 1764
+<font color="red"><h1> 43 </h1></font>
+<font color="blue">43</font> 1849
+<font color="red"><h1> 44 </h1></font>
+<font color="blue">44</font> 1936
+<font color="red"><h1> 45 </h1></font>
+<font color="blue">45</font> 2025
+<font color="red"><h1> 46 </h1></font>
+<font color="blue">46</font> 2116
+<font color="red"><h1> 47 </h1></font>
+<font color="blue">47</font> 2209
+<font color="red"><h1> 48 </h1></font>
+<font color="blue">48</font> 2304
+<font color="red"><h1> 49 </h1></font>
+<font color="blue">49</font> <font color="green">2401</font>
+</pre>
+</br>
+</html>
